@@ -4,7 +4,8 @@
 
 这是一个用于管理 NodePass 端口转发服务的 Bash 脚本。该脚本支持通过 INI 格式的配置文件来指定服务器和客户端端口，并提供日志级别和日志文件位置的配置选项。脚本还支持作为守护进程运行，并可以设置为系统启动时自动运行。新增功能：自动下载和安装 NodePass 最新版本。
 
-## 二进制文件来自于NodePass项目的发布页：https://github.com/yosebyte/nodepass/tree/main
+## 二进制文件来自于NodePass项目的发布页：
+https://github.com/yosebyte/nodepass/tree/main
 其他高级用法也请参见nodepass的说明及更新；
 此脚本仅为方便使用安装系统服务和调用配置文件config.ini；
 
