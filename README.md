@@ -6,8 +6,8 @@
 
 ## 二进制文件来自于NodePass项目的发布页：
 https://github.com/yosebyte/nodepass/tree/main
-其他高级用法也请参见nodepass的说明及更新；
-此脚本仅为方便使用安装系统服务和调用配置文件config.ini；
+其他高级用法也请参见nodepass原版的说明及更新；
+此脚本仅为方便下载、运行和管理nodepass可执行文件，安装服务和调用配置文件config.ini；
 
 ## 前提条件
 
