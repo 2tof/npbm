@@ -1,3 +1,6 @@
+推荐使用新的脚本安装：
+https://github.com/2tof/npMan
+
 # NodePass 端口转发服务脚本使用说明
 
 ## 简介
